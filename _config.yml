@@ -108,9 +108,10 @@ analytics:
 author:
   name             : "Shanmukha Eeti"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Explorer."
-  location         : "Mt pleasant MI"
+  bio              : "Data Science Portfolio."
+  location         : "New York"
   email            :
+  github           : "DataNeuron"
   links:
     - label: "eeti3084@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +125,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "https://github.com/shanmukhaa"
+    - label: "https://github.com/DataNeuron/"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
@@ -285,7 +286,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Projects
     values:
       layout: single
       author_profile: true
