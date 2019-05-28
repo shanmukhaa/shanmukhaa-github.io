@@ -3,10 +3,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
-  
-title:            Rud Faden
+
+title:            shanmukha eeti
 locale:           en_US
-url:              https://rudvfaden.github.io
+url:              https://dataneuron.github.io
 
 
 # Jekyll configuration
@@ -30,23 +30,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Rud Faden
-  avatar: me.jpg
-  bio: "He who knows not and knows not he knows not: he is a fool - shun him. He who knows not and knows he knows not: he is simple - teach him. He who knows and knows not he knows: he is asleep - wake him. He who knows and knows he knows: he is wise - follow him."
-  email: rudfaden@gmail.com
-  disqus-shortname: rudvfaden
-  twitter: rudfaden
-  facebook: rudfaden
+  name: shanmukha eeti
+  avatar: "/images/me.jpg"
+  bio: "“LEARNING IS NOT ATTAINED BY CHANCE, IT MUST BE SOUGHT FOR WITH ARDOR AND ATTENDED TO WITH DILIGENCE.” ―ABIGAIL ADAMS"
+  email: eeti3084@gmail.com
+  disqus-shortname: shan_eeti
+  twitter:
+  facebook:
   google:
-    plus: RudFaden
-    analytics: UA-55602000-1
-    verify: MgE8SEZZuZ5z_vuXmf5Ivew1ICkPkdFpcmdaMyo9ojo
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: rudvfaden
-  stackoverflow: /2702600/rud-faden
-  linkedin: rudfaden
+    plus: shanmukhaa
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: dataneuron
+  stackoverflow:
+  linkedin: shanmukha-e-8145a23
   instagram: #username
   lastfm: #username
   tumblr: #username
