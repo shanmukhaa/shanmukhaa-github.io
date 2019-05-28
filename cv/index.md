@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 <section id="table-of-contents" class="toc">
   <header>
