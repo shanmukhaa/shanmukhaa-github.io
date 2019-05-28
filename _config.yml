@@ -16,20 +16,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Explorer"
+title                    : "Data Neuron"
 title_separator          : "-"
 name                     : "Shanmukha Eeti"
-description              : "Data science Portfolio."
+description              : "Data Science portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dataneuron"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,9 +37,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -106,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Data Neuron"
-  avatar           : "/images/shanmukha_eeti.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio."
+  name             : "Shanmukha Eeti"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data science protfolio."
   location         : "New York"
   email            :
-  github           : "DataNeuron"
+  gitHub           : "dataneuron"
   linkedin         : "shanmukha-e-8145a23"
   links:
-    - label: "eeti3084@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -126,7 +121,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "https://github.com/DataNeuron/"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
@@ -284,10 +279,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _projects
+  # _posts
   - scope:
       path: ""
-      type: Projects
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -295,6 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
