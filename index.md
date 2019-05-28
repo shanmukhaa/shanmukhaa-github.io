@@ -1,4 +1,5 @@
 ---
-layout: home
-excerpt: "My portfolio"
+layout: post-index
+title: All Posts
+excerpt: "A List of Posts"
 ---
