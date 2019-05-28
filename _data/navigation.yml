@@ -1,7 +1,7 @@
-# main links
-main:
+# Site navigation links
 
-  - title: "/About"
-    url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+- title: Blog
+  url: /posts/
+
+- title: CV
+  url: /cv/
