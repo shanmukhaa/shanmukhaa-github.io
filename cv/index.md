@@ -1,7 +1,6 @@
 ---
 layout: page
-title: CV
-permalink: "/about/"
+title: About
 ---
 <section id="table-of-contents" class="toc">
   <header>
@@ -14,10 +13,6 @@ permalink: "/about/"
 </section><!-- /#table-of-contents -->
 
 I love to solve business problems of my clients using Data,working with them to identify their problems, strategizing analytic approaches, Provide solutions, I like to build Machine learning models, operationalize these models and improve decision making.
-
-
-
-
 
 ## Experience
 **Citizens Bank**<br/>
