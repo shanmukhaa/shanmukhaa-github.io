@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Shanmukha Eeti"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/shanmukha_eeti.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio."
   location         : "New York"
   email            :
