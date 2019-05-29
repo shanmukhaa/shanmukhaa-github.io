@@ -12,11 +12,11 @@ title: About
 </div>
 </section><!-- /#table-of-contents -->
 
-I love to solve business problems of my clients using Data,working with them to identify their problems, strategizing analytic approaches, Provide solutions, I like to build Machine learning models, operationalize these models and improve decision making.
+I'm a data scientist  who excels at machine learning, exploratory analysis and Data visualizations.
 
 ## Experience
 **Citizens Bank**<br/>
-*Senior Quantitative analyst, 2014-present*.My job is to Build production models  adhering to Regualatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+*Senior Quantitative analyst, 2014-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
 **Freddie mac**<br/>
 *SQL Developer 2012-2014<br/><br/>
 **SQl developer was working as part of Central warehouse team**<br/>
