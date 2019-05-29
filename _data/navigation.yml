@@ -4,4 +4,7 @@
   url: /posts/
 
 - title: About
-  url: /About/
+  url: /about/
+
+- title: Projects
+  url: /Machine-Learning Projects/
