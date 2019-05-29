@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: Blog
+title: Projects
 excerpt: "List of Projects"
 ---
