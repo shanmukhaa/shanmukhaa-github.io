@@ -1,5 +1,4 @@
 ---
-layout: post-index
-title: Projects
-excerpt: "A List of Projects"
+layout: home
+excerpt: "Random ramblings from a economist"
 ---
