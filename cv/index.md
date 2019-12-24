@@ -12,7 +12,7 @@ title: About
 </div>
 </section><!-- /#table-of-contents -->
 
-I'm a data scientist  who excels at machine learning, exploratory analysis and Data visualizations.
+I'm a data analyst  who excels at machine learning, exploratory analysis and Data visualizations.
 
 ## Experience
 **Citizens Bank**<br/>
@@ -26,8 +26,9 @@ I'm a data scientist  who excels at machine learning, exploratory analysis and D
 
 **OS:** Windows, Mac OS, Linux                 
 **Scripting:** python        
-**Scientific:** python,sas  
-**Typography:** LaTeX, Markdown        
+**programming:** python, sas  
+**Databases:** postgre, Mysql
+**Other:Machine Learning, Predictive anlytics,Keras,Tensorflow,NLP,Computer Vision        
 
 
 ## Education
