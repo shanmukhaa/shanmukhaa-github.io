@@ -227,7 +227,7 @@ df.groupby(['custcat', pd.cut(df['age'], np.arange(0,100,10))])\
 
 
 
-![png](Multiclass_Knn_files/Multiclass_Knn_12_1.png)
+![png](output_12_1.png)
 
 
 
@@ -236,7 +236,7 @@ df.hist(column='income', bins=100);
 ```
 
 
-![png](Multiclass_Knn_files/Multiclass_Knn_13_0.png)
+![png](output_13_0.png)
 
 
 
@@ -405,7 +405,7 @@ plt.show()
     
 
 
-![png](Multiclass_Knn_files/Multiclass_Knn_26_1.png)
+![png](output_26_1.png)
 
 
 
