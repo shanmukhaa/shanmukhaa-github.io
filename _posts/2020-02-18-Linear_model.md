@@ -1,5 +1,5 @@
 
-## Build a linear regression model 
+## Build a linear regression model
 
 <h1>Steps involved</h1>
 
@@ -206,7 +206,7 @@ df.info()
     CO2EMISSIONS                1067 non-null int64
     dtypes: float64(4), int64(4), object(5)
     memory usage: 108.5+ KB
-    
+
 
 
 ```python
@@ -319,7 +319,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_8_0.png)
+![png](/images/Linear_model_files/Linear_model_8_0.png)
 
 
 
@@ -395,7 +395,7 @@ print('intercept',regr.intercept_)
 
     coefficents [[39.11866973]]
     intercept [125.8818042]
-    
+
 
 
 ```python
@@ -414,7 +414,7 @@ plt.show()
 #### Evaluation
 we compare the actual values and predicted values to calculate the accuracy of a regression model. Evaluation metrics provide a key role in the development of a model, as it provides insight to areas that require improvement.
 
-There are different model evaluation metrics, lets use MSE here to calculate the accuracy of our model based on the test set: 
+There are different model evaluation metrics, lets use MSE here to calculate the accuracy of our model based on the test set:
 <ul>
     <li> Mean absolute error: It is the mean of the absolute value of the errors. This is the easiest of the metrics to understand since it’s just average error.</li>
     <li> Mean Squared Error (MSE): Mean Squared Error (MSE) is the mean of the squared error. It’s more popular than Mean absolute error because the focus is geared more towards large errors. This is due to the squared term exponentially increasing larger errors in comparison to smaller ones.</li>
@@ -437,7 +437,7 @@ print("R2-score: %.2f" % r2_score(test_y_hat , test_y) )
     Mean absolute error: 20.54
     Residual sum of squares (MSE): 763.95
     R2-score: 0.69
-    
+
 
 ### Lets check if multinear model will be a better fit
 
@@ -481,7 +481,7 @@ print('intercept',regr.intercept_)
 
     coefficents [[ 0.         50.205751   -1.46911758]]
     intercept [108.27018134]
-    
+
 
 
 ```python
@@ -498,7 +498,7 @@ print("R2-score: %.2f" % r2_score(test_y_ , test_y) )
     Mean absolute error: 20.58
     Residual sum of squares (MSE): 756.06
     R2-score: 0.70
-    
+
 
 
 ```python
