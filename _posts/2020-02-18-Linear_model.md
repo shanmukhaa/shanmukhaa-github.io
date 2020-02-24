@@ -331,7 +331,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_9_0.png)
+![png](/images/Linear_model_files/Linear_model_9_0.png)
 
 
 
@@ -343,7 +343,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_10_0.png)
+![png](/images/Linear_model_files/Linear_model_10_0.png)
 
 
 
@@ -356,7 +356,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_11_0.png)
+![png](/images/Linear_model_files/Linear_model_11_0.png)
 
 
 
@@ -376,7 +376,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_13_0.png)
+![png](/images/Linear_model_files/Linear_model_13_0.png)
 
 
 ### Modelling
@@ -408,7 +408,7 @@ plt.show()
 ```
 
 
-![png](Linear_model_files/Linear_model_16_0.png)
+![png](/images/Linear_model_files/Linear_model_16_0.png)
 
 
 #### Evaluation
