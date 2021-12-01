@@ -12,11 +12,17 @@ title: About
 </div>
 </section><!-- /#table-of-contents -->
 
-I'm a data analyst  who excels at machine learning, exploratory analysis and Data visualizations.
+I'm a product manager, Fascinated by the intersection of finance, tech and business. Passionate about enabling people and companies overcome challenges using effective frameworks. Has wealth of experience in product management,strategy,Banking, Consumer Lending, big data, analytics and software development
+
+Currently tackling digital transformation projects. Passionate about social justice,mental health, gender equality and climate change.
 
 ## Experience
 **Citizens Bank**<br/>
-*Senior Quantitative analyst, 2014-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+**Citizens Bank**<br/>
+*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+**Citizens Bank**<br/>
+*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
 **Freddie mac**<br/>
 *SQL Developer 2012-2014<br/><br/>
 **SQl developer was working as part of Central warehouse team**<br/>
