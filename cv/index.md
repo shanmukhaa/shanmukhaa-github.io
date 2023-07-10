@@ -12,17 +12,17 @@ title: About
 </div>
 </section><!-- /#table-of-contents -->
 
-I'm a product manager, Fascinated by the intersection of finance, tech and business. Passionate about enabling people and companies overcome challenges using effective frameworks. Has wealth of experience in product management,strategy,Banking, Consumer Lending, big data, analytics and software development
+I am a data Engineer. Currently working in Thermofisher scientific as data architect.
 
 Currently tackling digital transformation projects. Passionate about social justice,mental health, gender equality and climate change.
 
 ## Experience
 **Citizens Bank**<br/>
-*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+* Sr Data Engineer, 2012-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
 **Citizens Bank**<br/>
-*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+*Data Engineer, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
 **Citizens Bank**<br/>
-*Product Manager, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
+*Data Engineer, 2019-present*.My job is to Build production models  adhering to Regulatory rule in collection and Recovery ,Performance analysis of Recovery strategies, Do Gap analysis and build systems to streamline processes <br/><br/>
 **Freddie mac**<br/>
 *SQL Developer 2012-2014<br/><br/>
 **SQl developer was working as part of Central warehouse team**<br/>
